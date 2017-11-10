@@ -9,7 +9,3 @@ thresholding is to convert the image to binary image by making pixels of the spe
 #Moments of image
 This calculates the ones in the binary image and so we get the ones in the X axis and ones in Y axis then we get the area of the
 ones which then we can get the center of the ones area
-
-</br>
-#Sample Video
-[![15604873_341482729567703_756784361520496640_n.gif](https://s29.postimg.org/x2wyd9kdj/15604873_341482729567703_756784361520496640_n.gif)](https://postimg.org/image/j98lo7rs3/)
